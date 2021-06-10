@@ -1,7 +1,7 @@
 ### What functionality does this application have?
 We have the main navbar in our application. ^_^
 - If you click HOME, you'll see this greeting page.
-- If you click Users list, you'd see the main page with Users list,
+- If you click Users list, you'll see the main page with Users list,
 or else you hadn't authorized in system, you would be redirect on the Login page.
 We have two roles in our application - USER or ADMIN.
 - If you signed in as USER you would be redirect on the main page with users list.

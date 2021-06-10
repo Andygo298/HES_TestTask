@@ -1,13 +1,13 @@
 package com.github.andygo298.testTask.model;
 
+import com.github.andygo298.testTask.model.enums.Role;
+import com.github.andygo298.testTask.model.enums.Status;
 import lombok.*;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 import javax.persistence.*;
-import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Pattern;
 import java.time.LocalDate;

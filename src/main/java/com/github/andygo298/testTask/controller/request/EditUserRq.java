@@ -1,7 +1,7 @@
 package com.github.andygo298.testTask.controller.request;
 
-import com.github.andygo298.testTask.model.Role;
-import com.github.andygo298.testTask.model.Status;
+import com.github.andygo298.testTask.model.enums.Role;
+import com.github.andygo298.testTask.model.enums.Status;
 import lombok.Data;
 import org.springframework.validation.annotation.Validated;
 

@@ -1,4 +1,4 @@
-package com.github.andygo298.testTask.model;
+package com.github.andygo298.testTask.model.enums;
 
 import org.springframework.security.core.GrantedAuthority;
 
