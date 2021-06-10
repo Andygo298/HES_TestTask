@@ -10,7 +10,7 @@ And you can only browse through this list.
 - But you'll get an extra tab on the navbar- Admin page!!!
 And that’s awesome, isn’t it? If only because you'll can add new users and edit their information!
 - Also the field validation in the forms was implemented in our application.
-Logout button was also implemented for you!```
+- Logout button was also implemented for you!
         
         List of technologies used in the development of the application:
         1. Java 8+
@@ -18,5 +18,6 @@ Logout button was also implemented for you!```
         3. PostgreSQL
         4. Html Template Engine - Freemarker.
         5. Gradle
+        6. Lombok
         
         Have a good day!

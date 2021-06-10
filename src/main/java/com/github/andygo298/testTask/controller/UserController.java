@@ -4,15 +4,11 @@ import com.github.andygo298.testTask.controller.request.EditUserRq;
 import com.github.andygo298.testTask.model.User;
 import com.github.andygo298.testTask.service.UserService;
 import org.springframework.security.access.prepost.PreAuthorize;
-import org.springframework.security.core.AuthenticationException;
-import org.springframework.security.web.WebAttributes;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpSession;
 import javax.validation.Valid;
 import java.util.Collections;
 import java.util.List;
