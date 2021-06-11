@@ -8,7 +8,7 @@ We have two roles in our application - USER or ADMIN.
 And you can only browse through this list.
 - If you signed in as ADMIN you also would be redirect on the main page with users list.
 - But you'll get an extra tab on the navbar- Admin page!!!
-And that’s awesome, isn’t it? If only because you'll can add new users and edit their information!
+And that’s awesome, isn’t it? If only because you'll be able to add new users and edit their information!
 - Also the field validation in the forms was implemented in our application.
 - Logout button was also implemented for you!
         
