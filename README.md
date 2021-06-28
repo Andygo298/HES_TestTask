@@ -11,6 +11,10 @@ And you can only browse through this list.
 And that’s awesome, isn’t it? If only because you'll be able to add new users and edit their information!
 - Also the field validation in the forms was implemented in our application.
 - Logout button was also implemented for you!
+
+### Two base users: 
+#### login - admin, password - admin; login - user, password - user, and some others users
+
         
         List of technologies used in the development of the application:
         1. Java 8+
